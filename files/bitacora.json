@@ -1,5 +1,1 @@
-{
-    "pacientes": [
-        
-    ]
-}
+{"pacientes":[{"nombre":"Diego","bitacora":["Consulta","Consulta2"]},{"nombre":"Su","bitacora":["Consulta2"]},{"nombre":"pepe","bitacora":["primero","primero"]},{"nombre":"pepe2","bitacora":["primero","segundo"]}]}
